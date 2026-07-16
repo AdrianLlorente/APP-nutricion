@@ -1,0 +1,6 @@
+{
+  "name": "NutriColab",
+  "description": "Seguimiento nutricional colaborativo e inteligente con IA de Gemini",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
